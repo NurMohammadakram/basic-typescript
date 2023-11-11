@@ -46,3 +46,4 @@ const carrerPriority2 : {index: number; occupation: string; target: string; path
     target: 'work as a senior web devloper within next 3 years',
     path : ['hard working', 'giving 100% effort', 'dedication', 'regular time']
 }
+console.log(carrerPriority);
